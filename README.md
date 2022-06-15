@@ -1,7 +1,5 @@
 ## Olá, bem-vindo ao meu git! 👩🏽‍💻
 
-<! --
-
 - 💻 Atualmente estou trabalhando como aprendiz tech na Warren Brasil.
 - 🌱 Estou aprendendo
   
@@ -12,8 +10,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="height: 45px; width: 45px; margin-top: 5px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height: 45px; width: 45px; margin-top: 5px;" />
 
 - 👋🏽 Pronomes: ela/dela
-
--->
 
 <div>
 <a href="https://github.com/AgnesVargas">
